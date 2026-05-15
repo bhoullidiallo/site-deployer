@@ -69,14 +69,15 @@
             border-radius: 8px;
         }
         .jjjj{
-            background-image: url(image/moderne.jpeg);
+            background-image: url(diallo.jpeg);
+            background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 10px;
             box-shadow: 0 0 2px;
             width: 300px;
-            height: 200px;
+            height: 300px;
         }
         .kkk{
             display: flex;
